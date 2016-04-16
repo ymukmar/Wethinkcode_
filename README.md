@@ -1,2 +1,2 @@
 # Wethinkcode_
-42 Bootcamp at Wethinkcode_
+C Bootcamp at Wethinkcode_
