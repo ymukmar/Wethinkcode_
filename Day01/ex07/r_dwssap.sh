@@ -1,0 +1,1 @@
+cat /etc/passwd | grep -v ^# | sed -n 'p;n' | cut -d : -f 1 | rev | sort -d -r | tr '\n' ", " | sed "s/,/, /g" | sed "s/, $/./g"
