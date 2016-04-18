@@ -1,0 +1,5 @@
+Credentials cache: API:17038
+        Principal: ymukmar@42.FR
+
+  Issued                Expires               Principal
+Mar 29 12:50:17 2016  Mar 29 22:50:07 2016  krbtgt/42.FR@42.FR
